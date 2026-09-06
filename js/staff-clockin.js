@@ -10,6 +10,7 @@
  */
 
 const GAS_URL = 'https://script.google.com/macros/s/AKfycbyA3Qw74u6gtePXIMC-I83Iilt5aur6-dwhZEFL5fvZ34mByJpBJND4IZb8CvR0LLGMMA/exec';
+const API_TOKEN = 'ce7b13e70c1a42dba5eb9afc9c0663a7';
 const WD = ['日','月','火','水','木','金','土'];
 const STAFF_ID_KEY = 'uz_staff_id';
 
