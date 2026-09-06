@@ -171,6 +171,7 @@ document.addEventListener('DOMContentLoaded', uzRenderSidebar);
 
 /* ── GAS設定 ─────────────────────────────────────────────── */
 const GAS_URL = 'https://script.google.com/macros/s/AKfycbyA3Qw74u6gtePXIMC-I83Iilt5aur6-dwhZEFL5fvZ34mByJpBJND4IZb8CvR0LLGMMA/exec';
+const API_TOKEN = 'ce7b13e70c1a42dba5eb9afc9c0663a7';
 
 /* ── デモモード（複製元 ultra-z-leo・UI確認用） ───────────────
    複製元はテンプレGASの SPREADSHEET_ID が __SPREADSHEET_ID__ のままで、
